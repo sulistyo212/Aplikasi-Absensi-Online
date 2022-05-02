@@ -1,0 +1,16 @@
+Instalasi Aplikasi absensi online
+
+1. Download dan copy file ke Xampp -> Htdocs
+2. Buka Xampp, Start Mysql & Apache
+3. Buka Browser lalu akses : localhost/absenpegawai/
+4. Login akun 
+Akun Admin 
+username: admin, password: (no password)
+Akun Karyawan
+username: sulistyo, password: (12345)
+
+Admin Menu
+5. Menu Profil: Admin dapat mengedit profil
+6. Menu Jam Kerja: Admin dapat mengatur timer jam masuk dan jam pulang karyawan pada system absensi.
+7. Menu Karyawan : Admin dapat menambah, mengedit dan menghapus data karyawan pada system absensi.
+8. Menu Absensi: Admin dapat melihat detail absensi dari setiap karyawan.
